@@ -3,7 +3,7 @@ e-Ventation QRCode
 
 ## Installation
 ```
-$ git pull https://github.com/ahmadardi06/eventation.git
+$ git clone https://github.com/ahmadardi06/eventation.git
 $ cd eventation
 $ npm i
 ```
